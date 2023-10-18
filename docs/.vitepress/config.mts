@@ -15,7 +15,13 @@ export default defineConfig({
       {
         text: '2023',
         items: [
-          { text: 'Vue3 学习(1)', link: '/2023/ref-reacitive-toRef-toRefs-toRaw' }
+          { text: 'Vue3 学习(1)', link: '/2023/ref-reacitive-toRef-toRefs-toRaw' },
+        ]
+      },
+      {
+        text: '面试题',
+        items: [
+          { text: 'Vue面试题', link: '/interview/Vue面试题' }
         ]
       }
     ],
