@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.ca2520f5.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/Vue面试题.md","filePath":"interview/Vue面试题.md"}'),a={name:"interview/Vue面试题.md"};function n(o,i,s,c,_,p){return t(),r("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};
