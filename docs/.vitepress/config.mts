@@ -13,16 +13,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '2023',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Vue3 学习(1)', link: '/2023/ref-reacitive-toRef-toRefs-toRaw' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Zfeiyang/Zfeiyang.github.io' }
     ]
   }
 })
