@@ -3601,6 +3601,6 @@ function findMostWord(article) {
     // HTMLCollection 和 NodeList 都是类数组形式
     如下一个 div 可以看成是 HTMLDivElement 的实例，其中 Node 的集合为 NodeList；Element 的集合为 HTMLCollection
     EventTarget - Node - Element - HTMLElement - HTMLDivElement<br>
-    EventTarget - Node - Element - SVGElement - SVGPathElement<br>
+    EventTarget - Node - Element - SVGElement - SVGPathElement<br> 
 
 [MDN 上元素 div 继承关系](https://developer.mozilla.org/zh-CN/docs/Web/API/HTMLDivElement)
