@@ -5,4 +5,4 @@ git init
 git add -A
 git commit -m "auto construct blog"
 
-git push -f git@github.com:Zfeiyang/Zfeiyang.github.io.git main:gh-pages
+git push -f git@github.com:Zfeiyang/Zfeiyang.github.io.git master:gh-pages
