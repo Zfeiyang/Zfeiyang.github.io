@@ -21,7 +21,9 @@ export default defineConfig({
       {
         text: '面试题',
         items: [
-          { text: 'Vue面试题', link: '/interview/Vue面试题' }
+          { text: 'Vue面试题', link: '/interview/Vue面试题' },
+          { text: 'JS面试题1', link: '/interview/JS面试题1' },
+          { text: 'JS面试题2', link: '/interview/JS面试题2' }
         ]
       }
     ],
